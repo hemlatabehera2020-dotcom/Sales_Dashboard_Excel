@@ -19,9 +19,6 @@ The dashboard is built on a dataset of 1000+ sales records and provides interact
 - Payment Status (Paid / Pending / Overdue)
 - Product-wise & State-wise Filtering
 
-## 🖼️ Dashboard Preview
-![Dashboard Preview](dashboard_sales.png)
-
 ## 📂 Files Included
 - `Densat_MIS_Sales_1000_Rows.xlsx` – Excel dashboard file
 - `dashboard_preview.png` – Dashboard screenshot
